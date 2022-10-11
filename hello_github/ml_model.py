@@ -5,3 +5,6 @@ def model1():
 
 def model2():
     print('Model2')
+
+
+print('Model2 is final model')
