@@ -7,4 +7,4 @@ def model2():
     print('Model2')
 
 
-print('Model2 is final model')
+print('Model1 is final model')
